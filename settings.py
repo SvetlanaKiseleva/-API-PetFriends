@@ -1,2 +1,2 @@
-valid_email = "sunshine@yandex.ru"
-valid_password = "module19"
+valid_email = "....@yandex.ru"
+valid_password = "....19"
